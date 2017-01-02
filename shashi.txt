@@ -1,0 +1,1 @@
+Adding few details when myBranch1 is a separate branch which does not have any updates on this file 
